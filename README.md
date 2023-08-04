@@ -1,2 +1,2 @@
 # Coloring_Image
-Coloring Image Using U Net With Different Dottlenecks
+Coloring Image Using U Net With Different Bottlenecks
